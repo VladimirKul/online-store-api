@@ -1,12 +1,14 @@
 ﻿[
   {
-    "id_product": 124,
-    "product_name": "Ноутбук",
-    "price": 45600
+    "id": "1",
+    "name": "Mortal Kombat 11",
+    "price": "1400",
+    "count": 1
   },
   {
-    "id_product": 456,
-    "product_name": "Мышка",
-    "price": 1000
+    "id": "2",
+    "name": "Cyberpunk 2077",
+    "price": "2000",
+    "count": 1
   }
 ]
