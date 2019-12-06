@@ -1,18 +1,50 @@
-{
-  "amount": 46600,
-  "countGoods": 2,
-  "contents": [
-    {
-      "id_product": 123,
-      "product_name": "Ноутбук",
-      "price": 45600,
-      "quantity": 1
-    },
-    {
-      "id_product": 456,
-      "product_name": "Мышка",
-      "price": 1000,
-      "quantity": 1
-    }
-  ]
-}
+﻿[
+  {
+    "id": "1",
+    "name": "Mortal Kombat 11",
+    "price": "1400",
+    "count": 1
+  },
+  {
+    "id": "2",
+    "name": "Cyberpunk 2077",
+    "price": "2000",
+    "count": 1
+  },
+  {
+    "id": "3",
+    "name": "Death Stranding",
+    "price": "2500",
+    "count": 1
+  },
+  {
+    "id": "4",
+    "name": "Stalker 2",
+    "price": "100000",
+    "count": 1
+  },
+  {
+    "id": "5",
+    "name": "Metro: Exodus",
+    "price": "1400",
+    "count": 1
+  },
+  {
+    "id": "6",
+    "name": "Devil May Cry 5",
+    "price": "1000",
+    "count": 1
+  },
+  {
+    "id": "7",
+    "name": "Sekiro",
+    "price": "1500",
+    "count": 1
+  },
+  {
+    "id": "8",
+    "name": "Half-life 3",
+    "price": "100000000",
+    "count": 1
+  }
+]
